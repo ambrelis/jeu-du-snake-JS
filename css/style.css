@@ -1,0 +1,14 @@
+html {
+	font-family: sans-serif;
+}
+
+body {
+	padding: 10px;
+}
+
+canvas {
+	/* Bordure intérieure */
+	border: 1px solid black;
+	/* Bordure extérieure */
+	/*outline: 10px solid black;*/
+}
